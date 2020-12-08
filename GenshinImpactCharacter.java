@@ -50,7 +50,7 @@ public class GenshinImpactCharacter {
         diluc.setAttackSpeed(0.75);
         System.out.println("Diluc's new attack speed is " + diluc.attackSpeed);
         diluc.bersekerSetAttackIncrease();
-        System.out.print("Diluc:");
+        System.out.print("Diluc: ");
         diluc.printAttackDamage();
         System.out.println("****************************************");
     }
